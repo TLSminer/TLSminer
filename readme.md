@@ -26,6 +26,11 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。开�
 ![](https://user-images.githubusercontent.com/105292192/190327307-5dc6eb95-f2aa-46ff-8ad1-ae24d5b2612e.png)
 # 更新日志
 ```
+2023-5-11  v1.6.30-BETA版本更新   正式版未更新
+修复ETHW  E9PRO的支持
+新增支持铁鱼IRON 
+新增支持CKB
+
 2023-4-27  正式版:v1.6.29-003483e3de 小更新
 修复ETC E9PRO跑不起来的问题
 
